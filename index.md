@@ -11,3 +11,5 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 As Grace Hopper said:
 > I’ve always been more interested
 > in the future than in the past.
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/31/Wiki_logo_Nupedia.jpg"/>
