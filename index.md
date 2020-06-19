@@ -5,5 +5,5 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 ##Subheader Charater
 * Trait 1
 * Trait 2
-  * Trait 2.1
-  * Trait 2.2
+  * Trait 2a
+  * Trait 2b
