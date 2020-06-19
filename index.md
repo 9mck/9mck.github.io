@@ -6,3 +6,4 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 * Trait 1
 * Trait 2
 * Trait 3
+* Trait 4
