@@ -7,3 +7,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 * Trait 2
 * Trait 3
 * Trait 4
+
+As Grace Hopper said:
+> I’ve always been more interested
+> in the future than in the past.
